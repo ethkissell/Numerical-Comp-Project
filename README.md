@@ -21,4 +21,4 @@ Then, unzip the truncated data set from the .zip file and place
 it in the same directory as the main .ipynb. Make sure the name of
 the truncated data set is "city_market_tracker.tsv", while the name
 of the whole dataset is "city_market_tracker.tsv000". Finally, you
-can run all the cells.
+can run all the cells in the main notebook "interpolate-by-city.ipynb".
